@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-estructura",
+  "version": "1.0.0",
+  "description": "The scripts can be executed to create the databases. Each script will first drop any existing, same-name database, and add sample data to the newly created database.",
+  "main": "N1_ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcostaimusic/mongoDB-estructura.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcostaimusic/mongoDB-estructura/issues"
+  },
+  "homepage": "https://github.com/marcostaimusic/mongoDB-estructura#readme",
+  "dependencies": {
+    "mongodb": "^4.0.0"
+  }
+}
